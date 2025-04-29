@@ -1,0 +1,73 @@
+* {
+    background-color: rgb(230, 225, 215);
+    color: rgb(40, 40, 80);
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.source-code-pro {
+    font-family: "Source Code Pro", monospace;
+    font-style: normal;
+}
+
+a {
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: rgb(132, 129, 168);
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+.subject {
+    font-weight: bold;
+    background-color: rgb(81, 74, 185);
+    color: rgb(250, 235, 215);
+    padding: 0.2em;
+    padding-left: 0.8em;
+}
+
+a[href="https://brasil.un.org/pt-br/sdgs"]:hover {
+    color: #fd9d24;
+}
+
+figure {
+    text-align: center;
+}
+
+dl dt {
+    text-decoration: underline dashed;
+}
+
+dl dd {
+    font-style: italic;
+}
+
+#resumo {
+    font-style: italic;
+}
+
+#figure-ods {
+    text-align: left;
+    transition: opacity 0.3s ease;
+}
+
+#figure-ods:hover {
+    opacity: 0.5;
+}
+
+footer {
+    text-decoration: underline overline antiquewhite;
+}
+
+footer p {
+    text-align: center;
+}

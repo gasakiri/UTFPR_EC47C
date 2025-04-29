@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+}
+
+header {
+    background-color: green;
+}
+
+footer {
+    background-color: aqua;
+}
+
+h1 {
+    color: blue;
+    text-decoration: underline dotted;
+}
